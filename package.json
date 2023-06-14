@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "* [x] Q&A + screen sharing?\r * [x] Explain Project w/steps\r * [x] Go over reminders\r * [x] Q&A + screen sharing?\r * [] Practice Project",
+  "main": "queries.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}
